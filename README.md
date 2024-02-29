@@ -1,1 +1,1 @@
-# Video_Mask_Detection_using_CNN
+# Video Mask Detection using CNN
